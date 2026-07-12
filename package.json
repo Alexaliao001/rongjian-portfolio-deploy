@@ -1,9 +1,9 @@
 {
-  "name": "rongjian-portfolio",
+  "name": "static-host",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "echo prebuilt-on-ci",
+    "build": "echo prebuilt",
     "start": "NODE_ENV=production node dist/index.js"
   },
   "engines": { "node": ">=20" }
