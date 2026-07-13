@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rj.fortunesite.one/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rj.fortunesite.one/en"/>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/zh</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh"/>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en/about"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh/about"/>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/zh/about</loc>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/en/projects</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en/projects"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh/projects"/>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/zh/projects</loc>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/en/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh/blog"/>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/zh/blog</loc>
+  </url>
+</urlset>
