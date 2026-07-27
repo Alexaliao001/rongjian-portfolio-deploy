@@ -29,6 +29,14 @@
     <loc>https://rj.fortunesite.one/zh/projects</loc>
   </url>
   <url>
+    <loc>https://rj.fortunesite.one/en/projects/stock-agent</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en/projects/stock-agent"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh/projects/stock-agent"/>
+  </url>
+  <url>
+    <loc>https://rj.fortunesite.one/zh/projects/stock-agent</loc>
+  </url>
+  <url>
     <loc>https://rj.fortunesite.one/en/blog</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://rj.fortunesite.one/en/blog"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://rj.fortunesite.one/zh/blog"/>
